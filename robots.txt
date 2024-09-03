@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://roscurfod.github.io/sitemap.html.gz
+Sitemap: https://roscurfod.github.io/app/sitemap.html.gz
+Sitemap: https://roscurfod.github.io/assets/sitemap.html.gz
+Sitemap: https://roscurfod.github.io/css/sitemap.html.gz
+Sitemap: https://roscurfod.github.io/includes/sitemap.html.gz
+Sitemap: https://roscurfod.github.io/item/sitemap.html.gz
+Sitemap: https://roscurfod.github.io/src/sitemap.html.gz
